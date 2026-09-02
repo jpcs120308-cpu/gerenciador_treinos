@@ -1,8 +1,6 @@
 # Sistema de Gerenciamento de Academia
 Projeto desenvolvido em Python para gerenciamento simples de alunos de uma academia via terminal.
 
-(este projeto foi baseado no projeto do "GsacomaniR", créditos totais a ele) 
-
 O sistema permite:
 
 - Cadastro de alunos
@@ -39,3 +37,6 @@ O sistema permite:
 ├── utils.py       # Funções auxiliares
 ├── registro.SQL   # Banco de dados para registro dos dados dos clientes
 └── README.md
+
+
+(este projeto foi baseado no projeto do "GsacomaniR", créditos totais a ele) 
