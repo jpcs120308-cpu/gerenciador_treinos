@@ -17,8 +17,6 @@ Sistema simples para gerenciamento de alunos, check-ins de treinos e fila de ate
 
 ## 📂 Estrutura do Projeto
 
-text
-
 ├── main.py             # Menu principal e fluxo de navegação do sistema
 
 ├── alunos.py           # Regras de negócio, manipulação do banco e controle dos alunos
